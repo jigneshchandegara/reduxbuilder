@@ -1,0 +1,29 @@
+{
+  "product": [
+    {
+      "name": "pen",
+      "price": 14,
+      "id": "db6a",
+      "productImage": "https://www.researchgate.net/publication/316608199/figure/fig1/AS:613809668497409@1523355037519/llustrative-examples-of-product-image-Product-images-with-various-viewpoints-top.png"
+    },
+    {
+      "name": "notebook",
+      "price": 98.5,
+      "id": "a56e",
+      "productImage": "https://www.researchgate.net/publication/316608199/figure/fig1/AS:613809668497409@1523355037519/llustrative-examples-of-product-image-Product-images-with-various-viewpoints-top.png"
+    },
+    {
+      "id": "dc77",
+      "name": "watch",
+      "price": "346",
+      "productImage": "https://www.researchgate.net/publication/316608199/figure/fig1/AS:613809668497409@1523355037519/llustrative-examples-of-product-image-Product-images-with-various-viewpoints-top.png",
+      "Name": "shoe"
+    },
+    {
+      "id": "dc77",
+      "name": "shoes",
+      "price": "549",
+      "productImage": "https://www.researchgate.net/publication/316608199/figure/fig1/AS:613809668497409@1523355037519/llustrative-examples-of-product-image-Product-images-with-various-viewpoints-top.png"
+    }
+  ]
+}
